@@ -1,0 +1,2 @@
+测试github的本地git clone功能
+删除文件再上传
